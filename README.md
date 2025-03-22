@@ -1,3 +1,5 @@
+```python
+
 # Cost of Living Analysis 🚀  
 
 This project aims to analyze the cost of living and income levels in different countries. The dataset includes information on countries, years, average monthly income, cost of living, and various expenditure percentages.  
