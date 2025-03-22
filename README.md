@@ -48,6 +48,6 @@ The dataset contains the following columns:
 - The impact of housing, healthcare, and transportation expenses on income was analyzed.  
 - The effect of tax rates on savings levels in different regions was examined.  
 
----
+
 ```python
 
